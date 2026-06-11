@@ -1,3 +1,7 @@
+## 0.14.3+2
+* Bump up HaishinKit.swift to 2.2.5 — fixes SendingRisksDataRace build error on Xcode 16
+* Raise iOS minimum deployment target to 15.0
+
 ## 0.14.3
 * Support macOS and SPM.
 * Bump up HaishinKit.swift to 2.0.7
